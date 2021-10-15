@@ -43,7 +43,7 @@ You then need to copy the contents of your public key (`id_rsa.pub`) file and ad
 - Click `Add SSH Key`.
 - Add a decriptive name, so that you can recognise where each key is being used
 
-![3 Ssh](IMG-GitHub-CMDLine/3-ssh.PNG)
+![3 Ssh](IMG-All/IMG-GitSetup/3-ssh.PNG)
 
 You will then need to test that you have done everything correctly by using the following command:
     
@@ -51,7 +51,7 @@ You will then need to test that you have done everything correctly by using the 
 
 If you get something along the lines of the line below, then you have successfully connected your account to GitHub, you are now ready to use Git on the command line!
 
-![4 Itworked](IMG-All\IMG-GitSetup/4-itworked.PNG)
+![4 Itworked](IMG-All/IMG-GitSetup/4-itworked.PNG)
 
 ## Getting to the right folder
 Next we need to navigate to where we want to pull the repository to. 
